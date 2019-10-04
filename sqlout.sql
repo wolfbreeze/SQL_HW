@@ -1,3 +1,8 @@
+-- Code from https://github.com/Ghernandez1991/SQL-homework
+-- Created ERD.PNG and QuickDBD.sql from https://app.quickdatabasediagrams.com
+-- All code listed here is literal translation from given direction to SQL code, not much to comment out on.
+-- Thank you for your extra time Joe.
+
 -- 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
 
